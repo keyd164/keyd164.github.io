@@ -1,0 +1,4 @@
+# 本地预览产物
+_site/
+.jekyll-cache/
+.sass-cache/
